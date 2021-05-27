@@ -2,7 +2,10 @@
 - 👀 Looking a scripts for your own Minecraft Server?
 - 🌱 I can write anything on your Minecraft Server in .sk
 - 🧬 My Projects are writings in .sk Language or java
-- 📫 Want to text me? My discord : ✨{ TheFightaz#5196 }✨
 - 🧨 All my projects can u find in my Repositories and Projects!
+
+## U can find me there 🌎:
+- 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF"<Discord<=/a>
+- 📫 My discord : ✨{ TheFightaz#5196 }✨
 <!---
 --->
