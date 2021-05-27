@@ -5,7 +5,7 @@
 - 🧨 All my projects can u find in my Repositories and Projects!
 
 ## U can find me there 🌎:
-- 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF"<Discord</a>
+- 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
 - 📫 My discord : ✨{ TheFightaz#5196 }✨
 <!---
 --->
