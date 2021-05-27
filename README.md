@@ -6,7 +6,7 @@
 
 ## U can find me there 🌎:
 - 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
-- 🎥 Youtube : <a href="https://www.youtube.com/channel/UCwLi3PgldG2kq3NVZz88JUQ"<Youtube Channel</a>
+- 🎥 Youtube : <a href="https://www.youtube.com/channel/UCwLi3PgldG2kq3NVZz88JUQ">Youtube Channel</a>
 - 📫 My discord : ✨{ TheFightaz#5196 }✨
 <!---
 --->
