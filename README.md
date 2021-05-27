@@ -8,6 +8,7 @@
 ## My prefer Language
 - 🖊 .sk
 - 🔌 Java
+- 🐍 Python (Newbie)
 
 
 ## U can find me there 🌎:
