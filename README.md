@@ -7,7 +7,7 @@
 
 ## My prefer Language
 - 🖊 .sk
-- 🔌 Java
+- 🔌 Java (Still learning)
 - 🐍 Python (Newbie)
 
 
