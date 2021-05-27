@@ -1,7 +1,7 @@
 #  Hi, I’m TheFightaz (Olaf) 👋
 - 👀 Looking a scripts for your own Minecraft Server?
 - 🌱 I can write anything on your Minecraft Server in .sk
-- 🧬 My Projects are writings in .sk Language or java
+- 🧬 My Projects are writings in .sk and java language.
 - 🧨 All my projects can u find in my Repositories and Projects!
 
 
