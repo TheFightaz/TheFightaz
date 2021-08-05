@@ -9,7 +9,7 @@
 - 🖊 .sk
 - 🔌 Java (Still learning)
 - 🐍 Python (Newbie)
-
+- 🧮 C# (Newbie)
 
 ## U can find me there 🌎:
 - 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
