@@ -3,7 +3,7 @@
 - 🌱 I can write anything on your Minecraft Server in .sk language
 - 🧬 My Projects are writings in .sk and java language.
 - 🧨 All my projects can u find in my Repositories and Projects!
-- 🔰 7 years creator of Minecraft Servers
+- 🔰 7 Years creator of Minecraft Servers
 
 
 ## My prefer Language 💻:
