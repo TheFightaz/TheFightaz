@@ -7,7 +7,8 @@
 
 
 ## My prefer Language 💻:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;">![Bez nazwy-1](https://user-images.githubusercontent.com/83822200/148269731-24f107cf-27bd-451e-98c9-fe9451c6b94b.png)
+
 
 ## U can find me there 🌎:
 - 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
