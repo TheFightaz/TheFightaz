@@ -8,8 +8,6 @@
 
 ## My prefer Language 💻:
 - 🖊 .sk
-- 🔌 Java (Still learning)
-- 🐍 Python (Newbie)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;">
 
 ## U can find me there 🌎:
