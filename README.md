@@ -10,7 +10,7 @@
 - 🖊 .sk
 - 🔌 Java (Still learning)
 - 🐍 Python (Newbie)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="max-width: 100%;">
 
 ## U can find me there 🌎:
 - 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
