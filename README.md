@@ -13,7 +13,7 @@
 ## You can find me there 🌎:
 - 🔮 Discord Server : <a href="https://discord.gg/kVej5SKDMF">Discord</a>
 - 🎥 Youtube : <a href="https://www.youtube.com/channel/UCwLi3PgldG2kq3NVZz88JUQ">Youtube Channel</a>
-- 📞 Email : olaf.bigda@gmail.com
+- 📞 Email : bigda.olaf@gmail.com
 - 🔔 LinkedIn : <a href=https://www.linkedin.com/in/olaf-bigda-086103222/> LinkedIn</a>
 - 📫 My discord : TheFightaz#5196
 <!---
